@@ -1,0 +1,6 @@
+[submodule "qqq-1-submodule"]
+	path = qqq-1-submodule
+	url = git@github.com:qqq-qwe/qqq-1-submodule.git
+[submodule "qqq-2-submodule"]
+	path = qqq-2-submodule
+	url = git@github.com:qqq-qwe/qqq-2-submodule.git
